@@ -79,3 +79,5 @@ The app uses Google authentication, allowing users to access the application usi
 ## Conclusion
 
 Eduventure is an educational social network app that uses the MERN stack (MongoDB, Express, React, Node.js) to provide a full-stack application with robust functionalities for creating, updating, and deleting posts and users. Additionally, it includes AI powered matchmaking and Google authentication for a secure and convenient login process. 
+
+## Author: Andrei Nistor
