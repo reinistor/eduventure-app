@@ -76,8 +76,6 @@ The app uses Google authentication, allowing users to access the application usi
 2. Implementing the authentication in both the React app (client-side) and Node.js server (server-side).
 3. Communicating between the client and server to handle the authentication process and create an access token for the user.
 
-## Conclusion
 
-Eduventure is an educational social network app that uses the MERN stack (MongoDB, Express, React, Node.js) to provide a full-stack application with robust functionalities for creating, updating, and deleting posts and users. Additionally, it includes AI powered matchmaking and Google authentication for a secure and convenient login process. 
 
 ## Author: Andrei Nistor
